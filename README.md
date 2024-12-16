@@ -1,1 +1,12 @@
-# shivashi2020.github.io
+# Test Automation
+
+### Education
+MTech
+
+### Work Experience
+Test Lead
+- 01
+- 02
+
+
+### Projects
