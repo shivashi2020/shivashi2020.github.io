@@ -4,8 +4,8 @@
 
 
 ## Education								       		
-- MTECH., Physics | BITS Pilani University  (_2012 — 2016_)	 			        		
-- BSC., Physics | SDM DEGREE College, Ujire (_2009 — 2012_)
+- MTECH., Software Engineering| BITS Pilani University  (_2012 — 2016_)	 			        		
+- BSC., PCM | SDM DEGREE College, Ujire (_2009 — 2012_)
 
 ## Work Experience
 ** data
@@ -22,5 +22,20 @@ data
 
 
 
-## Publications
-data
+## CERTIFICATIONS
+- Wipro Certifications , DevOps Professional Certification Program
+- Micro focus UFT One Tester Specialist 
+- ALM_Manual_Tester_Specialist Micro Focus 
+- ALM_Automation_Tester_Specialist Micro Focus 
+- ALM_Project_Manager_Specialist Micro Focus 
+- Micro focus RPA Specialist 
+- Micro focus Octane Agile Specialist 
+- TOSCA Test Automation Specialist Level-1 & Level-2 
+- Automation Specialist for Databases TRICENTIS 
+- Automation Specialist for API 11.x TRICENTIS 
+- Tosca Query Language TRICENTIS
+
+## AWARDS AND RECOGNITIONS
+- Habit Flagbearer – Building Trust 
+- Feather In My Cap 
+- Pleasure to work with you
