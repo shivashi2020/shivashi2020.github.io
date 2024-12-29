@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Selenium, POM/Py Test, Microfocus UFT/QTP, Tricentis Tosca, Microfocus ALM Project, Microfocus ALM Administration, Microfocus ALM OTA, SQL, Postman
 
 
-## Education								       		
+## EDUCATION								       		
 - MTECH, Software Engineering| BITS Pilani University  (2012 — 2016)	 			        		
 - BSC, PCM | SDM DEGREE College, Ujire (2009 — 2012)
 
