@@ -4,7 +4,7 @@
 
 
 ## EDUCATION								       		
-- MTECH, Software Engineering| BITS Pilani University  (2012 — 2016)	 			        		
+- MTECH, Software Engineering | BITS Pilani University  (2012 — 2016)	 			        		
 - BSC, PCM | SDM DEGREE College, Ujire (2009 — 2012)
 
 ## PROFILE
