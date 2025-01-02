@@ -60,3 +60,9 @@ With over 11 years of experience in software testing including 4 years of onsite
 - Habit Flagbearer – Building Trust 
 - Feather In My Cap 
 - Pleasure to work with you
+
+## PROJECTS
+- Automated Oracle Regression Suite: Reduced execution time by 20% using Tosca.
+- Reporting Framework Development: Created Power BI dashboards for QA metrics.
+- ALM Utility: Built an MS Excel-based tool to streamline defect status reporting.
+
