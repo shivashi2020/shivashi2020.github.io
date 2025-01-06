@@ -8,7 +8,7 @@
 - BSC, PCM | SDM DEGREE College, Ujire (2009 — 2012)
 
 ## PROFILE
-With over 11 years of experience in software testing including 4 years of onsite experience in the UK, I have a deep understanding of testing concepts and am proficient in handling Automation Testing tools like Microfocus ALM, UFT Tricentis Tosca, and Selenium WebDriver. I am also well-versed in QC Admin concepts and automation using UFT and Tosca. My expertise extends to SDLC, Testing Life Cycle, and Defect Life Cycle, and I have experience creating test plans, writing test cases, and carrying out both manual and automated test executions. I have worked closely with Users, Business Analysts, Project Managers, and Developers to ensure proper business compliance. Additionally, I am certified with Microfocus and Tricentis, and I have great dexterity in handling all office-purpose tools such as Word sheets, excel sheets, PowerPoint applications, outlook Power Autoamte, etc. Lastly, I have developed an MS-#Excel-based utility for automating daily activities in ALM with minimal manual efforts using Excel VBA and HP ALM OTA/APIs. manual efforts. This is accomplished using Excel VBA and HP ALM OTA/APIs.
+With 11+ years of experience in software testing, including 4 years of onsite experience in the UK, I specialize in automation testing using tools like Selenium, Pytest, and Microfocus UFT , Tosca. Certified in multiple automation frameworks, I have a proven track record of developing end-to-end testing solutions and improving operational efficiency.
 
 ## EMPLOYMENT HISTORY
 ### Functional Test Lead at Wipro, BANGALORE, INDIA   - June 2012 — Present
