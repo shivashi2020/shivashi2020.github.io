@@ -93,7 +93,7 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
 </a>
 
 <a href="https://verify.skilljar.com/c/mv49rm3nkd45" target="_blank">
-    <img src="assets/img/Automating-web-application-testing.svg" alt="Automating web application testing" width="80">
+    <img src="assets/img/Automation Specialist for API.png" alt="Automating web application testing" width="50">
 </a>
 
 <!-- <img src="assets/images/badges/cert1.png" style="margin-right: 10px;" alt="Certification 1"> -->
