@@ -88,4 +88,8 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
     <img src="assets/img/LoadRunner-Pro-Tester-Specialist.png" alt="LoadRunner-Pro-Tester-Specialist" width="50">
 </a>
 
+<a href="https://university.atlassian.com/student/award/omXqR266XRuoXNehVVNVDBhj" target="_blank">
+    <img src="assets/img/jirafundamentals.png" alt="Jira Fundamentals" width="50">
+</a>
+
 <!-- <img src="assets/images/badges/cert1.png" style="margin-right: 10px;" alt="Certification 1"> -->
