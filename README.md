@@ -8,7 +8,7 @@
 - BSC, PCM | SDM DEGREE College, Ujire (2009 — 2012)
 
 ## PROFILE
-With 11+ years of experience in software testing, including 4 years of onsite experience in the UK, I specialize in automation testing using tools like Selenium, Pytest, and Microfocus UFT , Tosca. Certified in multiple automation frameworks, I have a proven track record of developing end-to-end testing solutions and improving operational efficiency.
+With 12+ years of experience in software testing, including 4 years of onsite experience in the UK, I specialize in automation testing using tools like Selenium, Pytest, Microfocus UFT and Tosca. Certified in multiple automation frameworks, I have a proven track record of developing end-to-end testing solutions and improving operational efficiency.
 
 ## EMPLOYMENT HISTORY
 ### Functional Test Lead at Wipro, BANGALORE, INDIA   - June 2012 — Present
