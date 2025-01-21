@@ -70,42 +70,42 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
 ### BADGE
 
 <a href="https://www.credly.com/go/NrnELu60" target="_blank">
-    <img src="assets/img/UFT-One-Tester-Specialist.png" alt="UFT-One-Tester-Specialist" width="50">
+    <img src="assets/img/UFT-One-Tester-Specialist.png" alt="UFT-One-Tester-Specialist" title="UFT One Specialist" width="50">
 </a>
 <a href="https://www.credly.com/go/QXBluvVv" target="_blank">
-    <img src="assets/img/ALM-Automation-Tester-Specialist.png" alt="ALM-Automation-Tester-Specialist" width="50">
+    <img src="assets/img/ALM-Automation-Tester-Specialist.png" alt="ALM-Automation-Tester-Specialist" title="ALM Automation Tester Specialist" width="50">
 </a>
 <a href="https://www.credly.com/go/gAWIPWZh" target="_blank">
-    <img src="assets/img/ALM-Manual-Tester-Specialist.png" alt="ALM-Manual-Tester-Specialist" width="50">
+    <img src="assets/img/ALM-Manual-Tester-Specialist.png" alt="ALM-Manual-Tester-Specialist" title="ALM Manual Tester Specialist" width="50">
 </a>
 <a href="https://www.credly.com/go/sfTv6Wlo" target="_blank">
-    <img src="assets/img/ALM-Project-Manager.png" alt="ALM-Project-Manager" width="50">
+    <img src="assets/img/ALM-Project-Manager.png" alt="ALM-Project-Manager" title="ALM Project Manager" width="50">
 </a>
 <a href="https://www.credly.com/go/jbwlKXe8" target="_blank">
-    <img src="assets/img/ALM-Octane-Agiile-Specialist.png" alt="ALM-Project-Manager" width="50">
+    <img src="assets/img/ALM-Octane-Agiile-Specialist.png" alt="ALM Octane Agiile Specialist" title="ALM Octane Agiile Specialist" width="50">
 </a>
 <a href="https://www.credly.com/go/cyYehmjW" target="_blank">
-    <img src="assets/img/LoadRunner-Pro-Tester-Specialist.png" alt="LoadRunner-Pro-Tester-Specialist" width="50">
+    <img src="assets/img/LoadRunner-Pro-Tester-Specialist.png" alt="LoadRunner-Pro-Tester-Specialist" title="LoadRunner-Pro Tester Specialist" width="50">
 </a>
 
 <a href="https://university.atlassian.com/student/award/omXqR266XRuoXNehVVNVDBhj" target="_blank">
-    <img src="assets/img/jirafundamentals.png" alt="Jira Fundamentals" width="50">
+    <img src="assets/img/jirafundamentals.png" alt="Jira Fundamentals" title="Jira Fundamentals" width="50">
 </a>
 
 <a href="https://verify.skilljar.com/c/mv49rm3nkd45" target="_blank">
-    <img src="assets/img/Automating-web-application-testing.png" alt="Automating Web Application Testing" width="50">
+    <img src="assets/img/Automating-web-application-testing.png" alt="Automating Web Application Testing" title="Automating Web Application Testing" width="50">
 </a>
 <a href="https://verify.skilljar.com/c/44yq8knjjytv" target="_blank">
-    <img src="assets/img/Automation-Specialist-for-API.png" alt="Automation Specialist for API" width="50">
+    <img src="assets/img/Automation-Specialist-for-API.png" alt="Automation Specialist for API" title="Automation Specialist for API" width="50">
 </a>
 <a href="https://verify.skilljar.com/c/vwfxv53ya7id" target="_blank">
-    <img src="assets/img/Automating-Database.png" alt="Automating Database" width="50">
+    <img src="assets/img/Automating-Database.png" alt="Automating Database" title="Automating Database" width="50">
 </a>
 <a href="https://verify.skilljar.com/c/ynkbocqfbf3y" target="_blank">
-    <img src="assets/img/Automating-SAP.png" alt="Automating SAP" width="50">
+    <img src="assets/img/Automating-SAP.png" alt="Automating SAP" title="Automating SAP" width="50">
 </a>
 <a href="https://verify.skilljar.com/c/jj6koguj8yyb" target="_blank">
-    <img src="assets/img/Tosca-Query-Language.png" alt="Tosca Query Language" width="50">
+    <img src="assets/img/Tosca-Query-Language.png" alt="Tosca Query Language" title="Tosca Query Language" width="50">
 </a>
 
 
