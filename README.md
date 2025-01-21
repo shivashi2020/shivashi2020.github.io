@@ -70,23 +70,18 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
 <a href="https://www.credly.com/go/NrnELu60" target="_blank">
     <img src="assets/img/UFT-One-Tester-Specialist.png" alt="UFT-One-Tester-Specialist" width="80">
 </a>
-
 <a href="https://www.credly.com/go/QXBluvVv" target="_blank">
     <img src="assets/img/ALM-Automation-Tester-Specialist.png" alt="ALM-Automation-Tester-Specialist" width="80">
 </a>
-
 <a href="https://www.credly.com/go/gAWIPWZh" target="_blank">
     <img src="assets/img/ALM-Manual-Tester-Specialist.png" alt="ALM-Manual-Tester-Specialist" width="80">
 </a>
-
 <a href="https://www.credly.com/go/sfTv6Wlo" target="_blank">
     <img src="assets/img/ALM-Project-Manager.png" alt="ALM-Project-Manager" width="80">
 </a>
-
 <a href="https://www.credly.com/go/jbwlKXe8" target="_blank">
     <img src="assets/img/ALM-Octane-Agiile-Specialist.png" alt="ALM-Project-Manager" width="80">
 </a>
-
 <a href="https://www.credly.com/go/cyYehmjW" target="_blank">
     <img src="assets/img/LoadRunner-Pro-Tester-Specialist.png" alt="LoadRunner-Pro-Tester-Specialist" width="80">
 </a>
