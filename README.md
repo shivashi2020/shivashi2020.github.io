@@ -67,21 +67,25 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
 - ALM Utility: Built an MS Excel-based tool to streamline defect status reporting.
 
 
+### BADGE
+
 <a href="https://www.credly.com/go/NrnELu60" target="_blank">
-    <img src="assets/img/UFT-One-Tester-Specialist.png" alt="UFT-One-Tester-Specialist" width="80">
+    <img src="assets/img/UFT-One-Tester-Specialist.png" alt="UFT-One-Tester-Specialist" width="50">
 </a>
 <a href="https://www.credly.com/go/QXBluvVv" target="_blank">
-    <img src="assets/img/ALM-Automation-Tester-Specialist.png" alt="ALM-Automation-Tester-Specialist" width="80">
+    <img src="assets/img/ALM-Automation-Tester-Specialist.png" alt="ALM-Automation-Tester-Specialist" width="50">
 </a>
 <a href="https://www.credly.com/go/gAWIPWZh" target="_blank">
-    <img src="assets/img/ALM-Manual-Tester-Specialist.png" alt="ALM-Manual-Tester-Specialist" width="80">
+    <img src="assets/img/ALM-Manual-Tester-Specialist.png" alt="ALM-Manual-Tester-Specialist" width="50">
 </a>
 <a href="https://www.credly.com/go/sfTv6Wlo" target="_blank">
-    <img src="assets/img/ALM-Project-Manager.png" alt="ALM-Project-Manager" width="80">
+    <img src="assets/img/ALM-Project-Manager.png" alt="ALM-Project-Manager" width="50">
 </a>
 <a href="https://www.credly.com/go/jbwlKXe8" target="_blank">
-    <img src="assets/img/ALM-Octane-Agiile-Specialist.png" alt="ALM-Project-Manager" width="80">
+    <img src="assets/img/ALM-Octane-Agiile-Specialist.png" alt="ALM-Project-Manager" width="50">
 </a>
 <a href="https://www.credly.com/go/cyYehmjW" target="_blank">
-    <img src="assets/img/LoadRunner-Pro-Tester-Specialist.png" alt="LoadRunner-Pro-Tester-Specialist" width="80">
+    <img src="assets/img/LoadRunner-Pro-Tester-Specialist.png" alt="LoadRunner-Pro-Tester-Specialist" width="50">
 </a>
+
+<!-- <img src="assets/images/badges/cert1.png" style="margin-right: 10px;" alt="Certification 1"> -->
