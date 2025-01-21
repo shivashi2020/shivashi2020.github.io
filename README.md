@@ -92,8 +92,21 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
     <img src="assets/img/jirafundamentals.png" alt="Jira Fundamentals" width="50">
 </a>
 
+<a href="https://verify.skilljar.com/c/mv49rm3nkd45" target="_blank">
+    <img src="assets/img/Automating-web-application-testing.png" alt="Automating Web Application Testing" width="50">
+</a>
 <a href="https://verify.skilljar.com/c/44yq8knjjytv" target="_blank">
     <img src="assets/img/Automation-Specialist-for-API.png" alt="Automation Specialist for API" width="50">
 </a>
+<a href="https://verify.skilljar.com/c/vwfxv53ya7id" target="_blank">
+    <img src="assets/img/Automating-Database.png" alt="Automating Database" width="50">
+</a>
+<a href="https://verify.skilljar.com/c/ynkbocqfbf3y" target="_blank">
+    <img src="assets/img/Automating-SAP.png" alt="Automating SAP" width="50">
+</a>
+<a href="https://verify.skilljar.com/c/jj6koguj8yyb" target="_blank">
+    <img src="assets/img/Tosca-Query-Language.png" alt="Tosca Query Language" width="50">
+</a>
+
 
 <!-- <img src="assets/images/badges/cert1.png" style="margin-right: 10px;" alt="Certification 1"> -->
