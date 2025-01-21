@@ -66,3 +66,6 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
 - Reporting Framework Development: Created Power BI dashboards for QA metrics.
 - ALM Utility: Built an MS Excel-based tool to streamline defect status reporting.
 
+
+
+[![UFT-One-Tester-Specialist](assets/img/UFT-One-Tester-Specialist.png)](https://www.credly.com/go/NrnELu60)
