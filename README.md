@@ -67,5 +67,7 @@ With 11+ years of experience in software testing, including 4 years of onsite ex
 - ALM Utility: Built an MS Excel-based tool to streamline defect status reporting.
 
 
+<a href="https://www.credly.com/go/NrnELu60" target="_blank">
+    <img src="assets/img/UFT-One-Tester-Specialist.png" alt="UFT-One-Tester-Specialist" width="50">
+</a>
 
-[![UFT-One-Tester-Specialist](assets/img/UFT-One-Tester-Specialist.png)](https://www.credly.com/go/NrnELu60)
