@@ -88,6 +88,9 @@ With 12+ years of experience in software testing, including 4 years of onsite ex
     <img src="assets/img/LoadRunner-Pro-Tester-Specialist.png" alt="LoadRunner-Pro-Tester-Specialist" title="LoadRunner-Pro Tester Specialist" width="50">
 </a>
 
+<a href="https://www.credly.com/go/O95gEa49" target="_blank">
+    <img src="assets/img/githubfundation.png" alt="GitHub Foundations" title="GitHub Foundations" width="50">
+</a>
 <a href="https://university.atlassian.com/student/award/omXqR266XRuoXNehVVNVDBhj" target="_blank">
     <img src="assets/img/jirafundamentals.png" alt="Jira Fundamentals" title="Jira Fundamentals" width="50">
 </a>
