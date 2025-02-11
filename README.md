@@ -45,6 +45,7 @@ With 12+ years of experience in software testing, including 4 years of onsite ex
 
 ## CERTIFICATIONS
 - Wipro Certifications , DevOps Professional Certification Program
+- GitHub Foundations
 - Micro focus UFT One Tester Specialist 
 - ALM_Manual_Tester_Specialist Micro Focus 
 - ALM_Automation_Tester_Specialist Micro Focus 
