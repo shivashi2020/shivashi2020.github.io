@@ -11,7 +11,7 @@
 With 12+ years of experience in software testing, including 4 years of onsite experience in the UK, I specialize in automation testing using tools like Selenium, Pytest, Microfocus UFT and Tosca. Certified in multiple automation frameworks, I have a proven track record of developing end-to-end testing solutions and improving operational efficiency.
 
 ## EMPLOYMENT HISTORY
-### Specialist-Architechure at LTIMindtree, BANGALORE, INDIA   - November 2025 — Present
+### Specialist-Architecture at LTIMindtree, BANGALORE, INDIA   - November 2025 — Present
 - Leading test automation efforts for IT enhancement projects, covering framework maintenance, script execution, and reporting.
 - Collaborate with project teams to improve QA efficiency, regression stability, and delivery quality.
 
