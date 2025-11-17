@@ -11,7 +11,14 @@
 With 12+ years of experience in software testing, including 4 years of onsite experience in the UK, I specialize in automation testing using tools like Selenium, Pytest, Microfocus UFT and Tosca. Certified in multiple automation frameworks, I have a proven track record of developing end-to-end testing solutions and improving operational efficiency.
 
 ## EMPLOYMENT HISTORY
-### Functional Test Lead at Wipro, BANGALORE, INDIA   - June 2012 — Present
+### Specialist at LTIMindtree, BANGALORE, INDIA   - November 2025 — Present
+- Performing Test Lead role for IT enhancement projects, working with Project Management and coordinating testing backlog.
+- Produce QA governance artifacts Master Test Plan, EOTR and Requirement Traceability Matrix.
+- Involved in test case preparation, test case execution and reporting.
+- Performed regression testing, SIT, script management, and preparing test suites.
+- Documented manual test cases, review test progress and updated the status.
+
+### Functional Test Lead at Wipro, BANGALORE, INDIA   - June 2012 — November 2025
 - Performing Test Lead role for IT enhancement projects, working with Project Management and coordinating testing backlog.
 - Produce QA governance artifacts Master Test Plan, EOTR and Requirement Traceability Matrix.
 - Involved in test case preparation, test case execution and reporting.
