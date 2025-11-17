@@ -1,6 +1,6 @@
 # AUTOMATION TEST ENGINEER 
 
-#### Technical Skills: Python, Selenium, POM/Py Test, Microfocus UFT/QTP, Tricentis Tosca, Microfocus ALM Project, Microfocus ALM Administration, Microfocus ALM OTA, SQL, Postman
+#### Technical Skills: Python, Selenium, POM/Py Test, Microfocus UFT/QTP, Tricentis Tosca, Microfocus ALM Project, BDD, Microfocus ALM Administration, Microfocus ALM OTA, SQL, Postman
 
 
 ## EDUCATION								       		
